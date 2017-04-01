@@ -1,0 +1,66 @@
+git:
+    breadcrumbs:
+        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        branch: master
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    lightslider:
+        url: https://github.com/getgrav/grav-plugin-lightslider
+        path: user/plugins/lightslider
+        branch: master
+    shoppingcart:
+        url: https://github.com/flaviocopes/grav-plugin-shoppingcart
+        path: user/plugins/shoppingcart
+        branch: master
+    shoppingcart-stripe:
+        url: https://github.com/flaviocopes/grav-plugin-shoppingcart-stripe
+        path: user/plugins/shoppingcart-stripe
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
+        branch: master
+    antimatter:
+        url: https://github.com/getgrav/grav-theme-antimatter
+        path: user/themes/antimatter
+        branch: master
+links:
+    breadcrumbs:
+        src: grav-plugin-breadcrumbs
+        path: user/plugins/breadcrumbs
+        scm: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    lightslider:
+        src: grav-plugin-lightslider
+        path: user/plugins/lightslider
+        scm: github
+    shoppingcart:
+        src: grav-plugin-shoppingcart
+        path: user/plugins/shoppingcart
+        scm: github
+    shoppingcart-stripe:
+        src: grav-plugin-shoppingcart-stripe
+        path: user/plugins/shoppingcart-stripe
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    antimatter:
+        src: grav-theme-antimatter
+        path: user/themes/antimatter
+        scm: github

@@ -1,0 +1,12 @@
+name: Grav Shopping Cart Skeleton
+version: 1.0.0
+description: "The **Grav Shopping Cart Skeleton** shows how you can simply and easily create a simple store built entirely with **Grav** and the Shopping Cart plugin."
+icon: comments
+author:
+  name: Flavio Copes
+  email: info@gravcart.com
+  url: http://gravcart.com
+homepage: https://github.com/flaviocopes/grav-skeleton-gravcart
+keywords: shop, skeleton, cart, shoppingcart, store
+bugs: https://github.com/flaviocopes/grav-skeleton-gravcart/issues
+license: MIT
